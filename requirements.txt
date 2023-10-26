@@ -1,3 +1,14 @@
-altair
-pandas
 streamlit
+pandas
+numpy
+nltk
+gensim
+scikit-learn
+torch
+matplotlib
+transformers
+keras
+tensorflow 
+streamlit-login-auth-ui
+argon2-cffi
+PyMuPDF
